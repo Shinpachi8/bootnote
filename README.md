@@ -7,3 +7,4 @@
 - [tomcat通用回显学习1](./security/java/tomcat回显调试-1.md) 
 - [tomcat通用回显学习2](./security/java/tomcat通用回显学习-2.md) 
 - [tomcat通用回显学习3](./security/java/tomcat通用回显学习-3.md) 
+- [shiro认证绕过分析](./security/java/shiro认证绕过分析.md)
